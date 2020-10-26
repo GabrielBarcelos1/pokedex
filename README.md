@@ -36,12 +36,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Css3]()
 
 ## 💻 Projeto
-O projeto Pokédex foi desenvolvido para praticar conceitos de React, como componentização, hooks e consumo de api, a aplicação listas todos os pokemons que existem nos dias atuais e trás os status de habilidade de cada pokémon, a api Rest utilizada é a pokeapi.co
+O projeto Pokédex foi desenvolvido para praticar conceitos de React, como componentização, hooks e consumo de api, a aplicação lista todos os pokemons que existem nos dias atuais ao clicar em um pokemon é entregue ao usuario os status de habilidade de cada pokémon e de qual tipo esse pokemon é, a api Rest utilizada é a pokeapi.co e as fotos com alta resolução foram extraidas do pokeres.bastionbot.org
 
 
 ## 🌐 Frontend
 <h1 align="center">
-    <img  src="" />
+    <img  src="https://github.com/GabrielBarcelos1/pokedex/blob/master/pokedex.gif" />
 </h1>
 
     
