@@ -50,8 +50,8 @@ O projeto Pokédex foi desenvolvido para praticar conceitos de React, como compo
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/GabrielBarcelos1/Calculador-de-salario-com-taxas.git
-cd Calculador-de-salario-com-taxas
+git clone https://github.com/GabrielBarcelos1/pokedex.git
+cd pokedex
 Depois disso é so mecher no projeto.
 ```
 
