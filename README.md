@@ -32,11 +32,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React.js]()
 - [Axios]()
+- [React-router-dom]()
 - [react-Icons]()
 - [Css3]()
 
 ## 💻 Projeto
-O projeto Pokédex foi desenvolvido para praticar conceitos de React, como componentização, hooks e consumo de api, a aplicação lista todos os pokemons que existem nos dias atuais ao clicar em um pokemon é entregue ao usuario os status de habilidade de cada pokémon e de qual tipo esse pokemon é, a api Rest utilizada é a pokeapi.co e as fotos com alta resolução foram extraidas do pokeres.bastionbot.org
+O projeto Pokédex foi desenvolvido para praticar conceitos de React, como componentização, hooks,consumo de api com axios e rotas com o React-router-dom a aplicação lista todos os pokemons que existem nos dias atuais ao clicar em um pokemon é entregue ao usuário os status de habilidade de cada pokémon e de qual tipo esse pokémon é, a api Rest utilizada é a pokeapi.co e as fotos com alta resolução foram extraidas do pokeres.bastionbot.org
 
 
 ## 🌐 Frontend
